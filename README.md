@@ -1,5 +1,5 @@
 # ChatWave
 
-# Run Command in this folder
+Run Command in this folder
 
 node server
